@@ -287,6 +287,13 @@ form {
         align-self: center;
     }
 
+    .data-section {
+        flex-direction: row;
+    }
+    .data-section h2 {
+        font-size: 2.3rem;
+    }
+
     .growth-section, .users-section {
         flex-direction: row-reverse;
         align-items: center;
